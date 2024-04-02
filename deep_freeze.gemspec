@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "deep_freeze"
   spec.version = DeepFreeze::VERSION
   spec.authors = ["omjogani"]
-  spec.email = ["om080jogani@gmail.com"]
+  spec.email = ["om@gmail.com"]
 
   spec.summary = "Deep Freeze Gem for froze arrays."
   spec.description = "Use Frozen arrays for more strictness"
